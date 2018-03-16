@@ -1,0 +1,15 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain": "^1.0.0",
+    "brain.js": "^1.1.2"
+  }
+}
